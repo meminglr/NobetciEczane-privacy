@@ -1,64 +1,66 @@
 # Privacy Policy
 
 ## Introduction
-Our privacy policy will help you understand what information we collect at **On-Duty Pharmacy App**, how **On-Duty Pharmacy App** uses it, and what choices you have.  
-**On-Duty Pharmacy App** is built as a free app. This SERVICE is provided by **Never Ever Studio** at no cost and is intended for use as is.
+This Privacy Policy explains how **On-Duty Pharmacy App** handles information when you use our mobile application. Our goal is to be fully transparent and protect user privacy while providing a reliable and useful service.
 
-If you choose to use our Service, then you agree to the use of information in relation with this policy. We do not collect or store personal data. Any information used is only for providing the core functionality of the Service. We will not use or share your information with anyone except as described in this Privacy Policy.
+**On-Duty Pharmacy App** is a free application provided by **Never Ever Studio** and is intended for general public use. By using this Service, you agree to the practices described in this Privacy Policy. If you do not agree with this policy, please do not use the application.
 
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, unless otherwise defined in this Privacy Policy.
-
+We do not collect, store, or sell personal data. Any information used by the app is limited to what is strictly necessary to provide its core functionality.
 
 ## Information Collection and Use
-We do **not** collect, store, or require any personally identifiable information such as name, email address, or photos.
+The app does **not** require users to create an account or provide personal information such as name, email address, phone number, or photos.
 
-The application may use **device location temporarily** to display nearby on-duty pharmacies. Location data is **not stored, recorded, or shared**. Users can also choose to continue using the app by manually selecting a city or region without granting GPS permission.
+To improve usability, the app may request access to your **device’s location** to display nearby on-duty pharmacies. This location data is used **only at the moment of the request**, is **not stored**, and is **not transmitted to our servers**.
 
-The app does not require user registration or account creation.
-
+Users who prefer not to share their location can continue using the app by manually selecting a city or region. Location permission is entirely optional and does not limit access to core features.
 
 ## Location Information
-The app may request **temporary access to location information** only to show nearby on-duty pharmacies.
+Location services are used solely to enhance user experience by showing nearby pharmacies.
 
-- Location access is **optional**
-- GPS is **not mandatory**
-- Location data is **not collected, stored, or shared**
+- Location access is requested only while the app is in use  
+- GPS usage is **optional**, not mandatory  
+- Location data is processed temporarily and never saved or tracked  
 
-Users can manually select a city or region instead of using location services.
+At any time, users can disable location access through their device settings and continue using the app via manual location selection.
 
-## Device Information
-The app does not collect device-specific information that can identify individual users. Internet access is required only to retrieve pharmacy data and map services.
+## Device and Usage Information
+The app does not collect device identifiers, advertising IDs, or any information that can be used to identify individual users.
 
+Basic device access such as internet connectivity is required to retrieve pharmacy information and display maps. No background data collection is performed.
 
 ## Third-Party Services
-The app uses third-party services that may collect information used to identify you:
+The application relies on trusted third-party services to provide essential features. These services may collect limited information in accordance with their own privacy policies.
 
-- Google Maps
+Third-party services used by the app include:
+- **Google Maps** – used to display map data and pharmacy locations
 
-These services are governed by their own privacy policies.
+We recommend reviewing the privacy policies of these third-party providers to understand how they handle data.
 
-## Cookies
-This Service does not use cookies directly. However, third-party services used in the app may use cookies or similar technologies to improve their services.
+## Cookies and Tracking Technologies
+This Service does not use cookies directly. However, third-party services integrated into the app may use cookies or similar technologies to improve their functionality and performance.
 
+The app itself does not perform user tracking or profiling.
 
 ## Service Providers
-We may employ third-party companies and individuals to facilitate our Service and provide mapping functionality. These third parties are obligated not to use the information for any other purpose.
+We may work with third-party companies and individuals to facilitate certain aspects of the Service, such as map rendering and data delivery.
 
+These service providers are granted limited access only to perform tasks on our behalf and are contractually obligated not to use or disclose information for any other purpose.
 
-## Security
-We value your trust. Although no method of electronic transmission or storage is 100% secure, we strive to use commercially acceptable means to protect the Service.
-
+## Data Security
+We value user trust and take reasonable steps to protect the Service. While no digital system can guarantee absolute security, we strive to follow industry-standard practices to ensure a safe user experience.
 
 ## Children’s Privacy
-This Service does not target children under the age of 13. We do not knowingly collect personally identifiable information from children.
+This Service is not specifically directed toward children under the age of 13. We do not knowingly collect personal data from children.
 
+If you believe that a child has provided personal information through the app, please contact us so we can take appropriate action.
 
 ## Changes to This Privacy Policy
-We may update our Privacy Policy from time to time. Any changes will be posted on this page and are effective immediately after being published.
+We may update this Privacy Policy from time to time to reflect changes in legal requirements or app functionality. Any updates will be posted on this page.
 
+Continued use of the Service after changes are published constitutes acceptance of the updated Privacy Policy.
 
 ## Contact Us
-If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us.
+If you have any questions, concerns, or suggestions regarding this Privacy Policy, feel free to contact us.
 
 **Contact Information:**  
 Email: **emnivalabs@gmail.com**
