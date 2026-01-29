@@ -1,9 +1,12 @@
 # Privacy Policy
 
 ## Introduction
-This Privacy Policy explains how **On-Duty Pharmacy App** handles information when you use our mobile application. Our goal is to be fully transparent and protect user privacy while providing a reliable and useful service.
+This Privacy Policy explains how **Nöbetçi Eczane** handles information when you use our mobile application.
 
-**On-Duty Pharmacy App** is a free application provided by **Never Ever Studio** and is intended for general public use. By using this Service, you agree to the practices described in this Privacy Policy. If you do not agree with this policy, please do not use the application.
+**Nöbetçi Eczane** is a mobile application developed by **Emniva Labs** that helps users easily find nearby on-duty pharmacies based on their location or selected city. The app provides up-to-date pharmacy information and map-based navigation to improve accessibility, especially during night hours, weekends, and public holidays.
+
+The application is provided free of charge and is intended for general public use.  
+By using this Service, you acknowledge that you have read and understood this Privacy Policy.
 
 We do not collect, store, or sell personal data. Any information used by the app is limited to what is strictly necessary to provide its core functionality.
 
